@@ -1,7 +1,7 @@
 ### Hi there, my name is Ruben! 🏁
 
 - 🔭 I’m currently working on personal projects but would really like to help on some open source projects.
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning about:
       C++, C, Python, WebAssembly, React,
       x86_64 Linux Assembly, Node.js, TypeScript,
       other basic web development skills, OpenGL and Solidity.
