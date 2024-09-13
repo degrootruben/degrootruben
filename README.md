@@ -1,3 +1,7 @@
 ### Hi, my name is Ruben! 🏁
 
-📫 Contact me via info@rubendegroot.com!
+CTO at ecomflow.com
+Making cool stuff
+Entrepeneur
+
+Contact me via info@rubendegroot.com!
